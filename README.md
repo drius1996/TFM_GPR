@@ -1,5 +1,6 @@
 # TFM_GP
-Code from my Master Tesis (Actuarials)
+Code from my Master Tesis (Actuarials).
+
 Aquí encontrarán el código en R y/o RStudio utilizado para la elaboración del trabajo.
 
 -- > 0.Main: Librerías y obtención de bases de datos utilizadas.
